@@ -11,7 +11,7 @@ var app = express();
 
 
 
-app.get('/hello', function(req, res){
+app.get('/*', function(req, res){
     console.log('app got it. hello world!')
     res.send('Hello World');
 });
