@@ -1,6 +1,6 @@
 # Pear
 
-A distributed Express.js server using 0mq. A work in progress.
+A distributed Express.js server using 0mq and msgpack. A work in progress.
 
 # Installation
 
